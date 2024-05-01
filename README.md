@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm pranaykumar from karnataka<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning DSA with java and FULL STAC DEVOLOPMENT<br>- ⚡ In my free time I do my college works</p>
 
 ###
 
